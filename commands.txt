@@ -1,0 +1,8 @@
+
+spark-shell
+
+:load -v "/home/anas/Hadoop/Spark/network-analysis/pageRank.scala"
+
+:load -v "/home/anas/Hadoop/Spark/network-analysis/connectedComponents.scala"
+
+:load -v "/home/anas/Hadoop/Spark/network-analysis/triangleCounting.scala"
